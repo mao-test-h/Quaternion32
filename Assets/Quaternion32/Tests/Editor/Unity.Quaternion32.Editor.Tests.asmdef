@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Quaternion32.Editor.Tests",
+    "references": [
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:59e3e595878e1964093d6d88aaba2d8e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "com.mao.quaternion32",
+    "displayName": "Quaternion 32-bit",
+    "version": "0.0.1",
+    "unity": "2019.3",
+    "description": "32-bit Compression for quaternions",
+    "dependencies": {
+        "com.unity.mathematics": "1.1.0"
+    }
+}

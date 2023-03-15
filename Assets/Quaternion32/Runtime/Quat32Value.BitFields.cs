@@ -8,7 +8,7 @@ namespace Quaternion32
 {
     public partial struct Quaternion32
     {
-        struct Quat32Value
+        public struct Quat32Value
         {
             public uint Value;
 

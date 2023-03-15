@@ -1,7 +1,7 @@
 {
     "name": "com.mao.quaternion32",
     "displayName": "Quaternion 32-bit",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "unity": "2020.3",
     "description": "32-bit Compression for quaternions",
     "dependencies": {

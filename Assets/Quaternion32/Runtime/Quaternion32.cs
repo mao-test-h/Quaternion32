@@ -14,6 +14,13 @@ namespace Quaternion32
         const float C = 0x3ff;
         const float R = 1.0f / 0x3ff;
 
+        /// <summary>
+        /// Raw uint(32bit) accessor for rpc type conversion.
+        /// </summary>
+        public uint RawValue{
+            get => value.Value;
+            set => this.value.Value = value;
+        }
         Quat32Value value;
 
         public Quaternion32(Quaternion quat) => this = Compressed(quat);
